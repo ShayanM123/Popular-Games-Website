@@ -1,0 +1,46 @@
+h1{
+    color: black;
+}
+
+body{
+    background-color: bisque;
+    text-align: center;
+
+}
+
+#d1{
+    color: black;
+}
+
+#d2{
+    color: black;
+}
+
+#d3{
+    color: black;
+}
+
+#d4{
+    color: black;
+}
+
+#d5{
+    background-color: #284162 ;
+    height: 150px;
+}
+
+.inner{
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 30px;
+    margin-top: 10px;
+    background-color: wheat;
+    width: 70%;
+    margin-left: 270px;
+}
+
+#heading{
+    font-size: 84px;
+
+}
